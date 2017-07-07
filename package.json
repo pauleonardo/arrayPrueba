@@ -1,0 +1,18 @@
+{
+  "name": "ejercicioArray",
+  "version": "1.0.0",
+  "description": "prueba",
+  "main": "index.js",
+  "author": "Paul Diaz",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^3.0.1-beta.9",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start -p 8000"
+  }
+}
